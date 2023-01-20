@@ -1,4 +1,4 @@
-# Projeto Cadastro
+##Projeto Cadastro
 *Projeto que cadastra pessoas diágnosticadas com covid-19.*
 
 A **COVID-19** é uma doença infecciosa causada pelo coronavírus SARS-CoV-2 e tem como principais sintomas febre, cansaço e tosse seca. Outros sintomas menos comuns e que podem afetar alguns pacientes são: perda de paladar ou olfato, congestão nasal, conjuntivite, dor de garganta, dor de cabeça, dores nos músculos ou juntas, diferentes tipos de erupção cutânea, náusea ou vômito, diarreia, calafrios ou tonturas.
